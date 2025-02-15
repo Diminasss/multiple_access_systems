@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ### Запуск программы
 ```bash
-python main.py
+python Lab2.py
 ```
 
 ## Основные компоненты кода
